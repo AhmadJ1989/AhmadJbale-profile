@@ -20,12 +20,12 @@ This is my  GitHub profile README
 ## 📌 Pinned Projects
 **AI & Machine Learning Projects:**  
 - **Student Habits & Academic Performance Analysis:** Conducted EDA and predictive modeling to identify trends in GPA, study habits, and mental health.
-- 
+  
 - **Predictive AI System:** Developed a pattern recognition system with Python and ML models for real-world datasets.  
 
 **Data Analysis Projects:**  
 - **Financial Data Analysis:** Processed SAP FI/CO data to improve financial workflows and reporting efficiency.
-- 
+ 
 - **HR Analytics & Modeling:** Preprocessed and modeled HR data to predict employee performance and retention.  
 
 ---
